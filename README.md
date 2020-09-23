@@ -1,4 +1,4 @@
-# lab01- BCD2SSEG
+# Lab002- BCD2SSEG
 laboratorio 01 simulación
 
 En esta plantilla debe adicionar la documentación del laboratorio
